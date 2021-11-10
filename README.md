@@ -13,3 +13,7 @@ Echo-server-python.png + Echo-client-python.png
 Homework Jshell/Java Socket : 
 -
 Socket_jshell.mp4
+
+Homework GRASP :
+-
+GRASP slides link : https://slides.com/quentinvaunac/java-with-grasp
