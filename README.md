@@ -17,3 +17,7 @@ Socket_jshell.mp4
 Homework GRASP :
 -
 GRASP slides link : https://slides.com/quentinvaunac/java-with-grasp
+
+Homework Elegant Object : 
+-
+Elegant object slides link : https://slides.com/quentinvaunac/elegantobject 
