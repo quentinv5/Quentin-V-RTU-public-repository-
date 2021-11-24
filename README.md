@@ -21,3 +21,7 @@ GRASP slides link : https://slides.com/quentinvaunac/java-with-grasp
 Homework Elegant Object : 
 -
 Elegant object slides link : https://slides.com/quentinvaunac/elegantobject 
+
+Branch Spring-Boot (Homework SB):
+-
+You can find the code to upload pictures/data from a bucket with aws (Amazon)
