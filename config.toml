@@ -1,0 +1,69 @@
+## Basic Configuration
+baseurl = "https://example.com/"
+languageCode = "en"
+
+title = "Quentin's blog"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+#paginate = 5
+
+## Site Settings
+[params]
+    author = "Author"
+    title = "Quentin's blog"
+    # description = "..."
+    authorimage = "/img/quentin.png"
+    dateformat = "Jan 9, 2022"
+
+    # sidebar, copyright & license
+    #logoimage = "/img/hugo.png"
+    copyright = "htr3n"
+    since = 2019
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    github = "https://github.com/quentinv5/Quentin-V-RTU-public-repository-.git"    
+    linkedin = "https://www.linkedin.com/in/quentin-vaunac-76124b16a/"
+    facebook = "<username>"   
+    email = "quentin.vaunac@ipsa.fr"
+    
+
+## Main Menu
+[[menu.main]]
+    name = "About me"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Professional Experience"
+    identifier = "portfolio"
+    weight = 200
+    url = "/portfolio/"
+[[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    weight = 300
+    url = "/contact/"
