@@ -30,5 +30,5 @@ You can find the code to upload pictures/data from a bucket with aws (Amazon)
 #RAE473 
 -
 
-Final Exam --> branch RAE473 exam
+Final Exam --> branch RAE473
 -
